@@ -1,0 +1,14 @@
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\CalculatorApp\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\CalculatorApp\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex1\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex1\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex1\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex1\CalculatorApp\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex1\CalculatorApp\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex1\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex1\CalculatorApp\obj\Debug\CalculatorApp.pdb

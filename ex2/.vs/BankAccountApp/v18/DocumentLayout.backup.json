@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mnmnm\\OneDrive\\Desktop\\c#\\Lab09\\ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF16408-D490-4893-A4EA-E04F919542D4}|BankAccountTests\\BankAccountTests.csproj|c:\\users\\mnmnm\\onedrive\\desktop\\c#\\lab09\\ex2\\bankaccounttests\\bankaccountcsvtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF16408-D490-4893-A4EA-E04F919542D4}|BankAccountTests\\BankAccountTests.csproj|solutionrelative:bankaccounttests\\bankaccountcsvtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF16408-D490-4893-A4EA-E04F919542D4}|BankAccountTests\\BankAccountTests.csproj|c:\\users\\mnmnm\\onedrive\\desktop\\c#\\lab09\\ex2\\bankaccounttests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF16408-D490-4893-A4EA-E04F919542D4}|BankAccountTests\\BankAccountTests.csproj|solutionrelative:bankaccounttests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountCsvTests.cs",
+              "DocumentMoniker": "C:\\Users\\mnmnm\\OneDrive\\Desktop\\c#\\Lab09\\ex2\\BankAccountTests\\BankAccountCsvTests.cs",
+              "RelativeDocumentMoniker": "BankAccountTests\\BankAccountCsvTests.cs",
+              "ToolTip": "C:\\Users\\mnmnm\\OneDrive\\Desktop\\c#\\Lab09\\ex2\\BankAccountTests\\BankAccountCsvTests.cs",
+              "RelativeToolTip": "BankAccountTests\\BankAccountCsvTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:29:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\mnmnm\\OneDrive\\Desktop\\c#\\Lab09\\ex2\\BankAccountTests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "BankAccountTests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\mnmnm\\OneDrive\\Desktop\\c#\\Lab09\\ex2\\BankAccountTests\\BankAccountTests.cs",
+              "RelativeToolTip": "BankAccountTests\\BankAccountTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:28:56.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
