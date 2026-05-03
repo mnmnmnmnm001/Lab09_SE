@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="login.html" />
+    <File Path="LoginTestData.csv" />
+  </Folder>
+  <Project Path="LoginAutomation/LoginAutomation.csproj" />
+</Solution>

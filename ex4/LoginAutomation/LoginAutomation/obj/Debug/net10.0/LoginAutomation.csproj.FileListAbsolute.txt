@@ -1,0 +1,17 @@
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\bin\Debug\net10.0\LoginAutomation.deps.json
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\bin\Debug\net10.0\LoginAutomation.runtimeconfig.json
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\bin\Debug\net10.0\LoginAutomation.dll
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\bin\Debug\net10.0\LoginAutomation.pdb
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.csproj.AssemblyReference.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.AssemblyInfoInputs.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.AssemblyInfo.cs
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.dll
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\refint\LoginAutomation.dll
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.pdb
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\LoginAutomation.genruntimeconfig.cache
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\obj\Debug\net10.0\ref\LoginAutomation.dll
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\bin\Debug\net10.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\bin\Debug\net10.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mnmnm\OneDrive\Desktop\c#\Lab09\ex3\LoginAutomation\LoginAutomation\bin\Debug\net10.0\xunit.runner.utility.netcoreapp10.dll
